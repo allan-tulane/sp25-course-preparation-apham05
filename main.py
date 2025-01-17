@@ -7,5 +7,6 @@ def myfunction(input):
 	return input
 
 print(myfunction("Hello"))
+print(myfunction(1))
 
 
